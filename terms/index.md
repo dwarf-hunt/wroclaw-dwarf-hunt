@@ -26,7 +26,7 @@ The App offers various plans (e.g., Starter, Explorer, Expert) that provide addi
 ## 4. Accounts and Leaderboard
 
 You may sign in using Apple or Google to save your progress and compete on the Leaderboard.
-* Your display name (which defaults to your first name and last initial) will be publicly visible to other players on the Leaderboard. You can change this name at any time.
+* Your display name (which defaults to your first name) will be publicly visible to other players on the Leaderboard. You can change this name at any time.
 * We reserve the right to reset inappropriate or offensive display names.
 
 ## 5. Termination

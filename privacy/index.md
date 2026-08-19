@@ -9,7 +9,7 @@ Our core philosophy is simple: **we do not collect or store your sensitive perso
 ## 1. Information We Collect
 
 ### Authentication Data
-When you sign in using Google or Apple, we do not access, collect, or store your email address or other data. We only receive an anonymous, unique identifier to save your game progress and a default display name (typically your first name and the first letter of your last name, e.g., "John S."). You can change this display name at any time in the App's settings.
+When you sign in using Google or Apple, we do not access, collect, or store your email address or other data. We only receive an anonymous, unique identifier to save your game progress and a default display name (typically your first name). You can change this display name at any time in the App's settings.
 
 ### Location Data
 We require access to your device's location (coarse and fine) while you are using the App. This is used strictly to verify that you are physically near a dwarf when you attempt to catch it, and to provide routing features. We do not track your location in the background or store your location history on our servers.
