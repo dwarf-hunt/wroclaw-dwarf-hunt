@@ -12,7 +12,10 @@ Our core philosophy is simple: **we do not collect or store your sensitive perso
 When you sign in using Google or Apple, we do not access, collect, or store your email address or other data. We only receive an anonymous, unique identifier to save your game progress and a default display name (typically your first name). You can change this display name at any time in the App's settings.
 
 ### Location Data
-We require access to your device's location (coarse and fine) while you are using the App. This is used strictly to verify that you are physically near a dwarf when you attempt to catch it, and to provide routing features. We do not track your location in the background or store your location history on our servers.
+We require access to your device's location (coarse and fine) while you are using the App. This is used strictly to:
+1. Verify that you are physically near a dwarf when you attempt to catch it (App Functionality).
+2. Collect anonymous telemetry (coordinates of successful or failed capture attempts) strictly for debugging and improving the accuracy of dwarf locations on our map (Diagnostics).
+We do not track your location in the background or store your location history.
 
 ### Camera and Photos
 The App requires camera access to take photos of the dwarfs you find. These photos are uploaded and stored securely on our servers (via Amazon Web Services). We do not access your personal photo library.
@@ -24,6 +27,7 @@ We use the minimal data we collect to:
 * Display your chosen username and score on the public Leaderboard.
 * Verify your location during a "catch" to ensure fair gameplay.
 * Improve the App's features, including using anonymously submitted photos of dwarfs to train and improve our automated image recognition systems.
+* Analyze anonymous location data during "catch" attempts to fix map inaccuracies and troubleshoot app errors.
 
 ## 3. Data Sharing and Third Parties
 
