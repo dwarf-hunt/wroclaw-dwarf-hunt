@@ -1,5 +1,7 @@
 # Account and Data Deletion
 
+**Last Updated:** 01.09.2026
+
 At **Wroclaw Dwarf Hunt**, we take your privacy seriously. To protect your identity, we use anonymous authentication via Apple and Google. **We do not collect, know, or store your email address.**
 
 Because we do not have your email, we cannot process deletion requests via standard email verification (as we have no way to prove which account belongs to you).
@@ -15,7 +17,7 @@ If you still have the app installed, you can delete your data instantly:
 
 ### Method 2: Manual Request via Support ID
 If you have uninstalled the app but previously saved your `Support ID` (can be found in the App Settings: **Settings** -> **Account** -> **Advanced**), you can request manual deletion:
-* Send an email to **dwarfshunt@gmail.com** with the subject "Account Deletion Request".
+* Send an email to **dwarfshunt@gmail.com** with the subject **"Account Deletion Request"**.
 * Include your exact `Support ID` in the body of the email.
 * We will delete your data within 7 days.
 
