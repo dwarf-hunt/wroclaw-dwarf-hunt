@@ -6,6 +6,7 @@ Please review our legal documents below:
 
 * [Privacy Policy](privacy/)
 * [Terms of Service](terms/)
+* [Account and Data Deletion](deletion/)
 
 ---
 *Discover all Wroclaw Dwarfs!*
