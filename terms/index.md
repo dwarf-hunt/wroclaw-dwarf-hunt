@@ -1,6 +1,6 @@
 # Terms of Service
 
-**Last Updated:** 01.09.2026
+**Last Updated:** 25.08.2026
 
 Welcome to Wroclaw Dwarf Hunt! By downloading, accessing, or using our mobile application (the "App"), you agree to be bound by these Terms of Service. If you do not agree to these terms, please do not use the App.
 

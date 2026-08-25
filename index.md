@@ -1,6 +1,6 @@
 # Wroclaw Dwarf Hunt
 
-Welcome to the official portal for the **Wroclaw Dwarf Hunt** mobile app. 
+Welcome to the official portal for the **Wroclaw Dwarf Hunt** mobile app.
 
 Please review our legal documents below:
 
@@ -9,4 +9,4 @@ Please review our legal documents below:
 * [Account and Data Deletion](deletion/)
 
 ---
-*Discover all Wroclaw Dwarfs!*
+*© 2026 AA Stack*

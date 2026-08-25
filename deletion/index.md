@@ -1,6 +1,6 @@
 # Account and Data Deletion
 
-**Last Updated:** 01.09.2026
+**Last Updated:** 25.08.2026
 
 At **Wroclaw Dwarf Hunt**, we take your privacy seriously. To protect your identity, we use anonymous authentication via Apple and Google. **We do not collect, know, or store your email address.**
 

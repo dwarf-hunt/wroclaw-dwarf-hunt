@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last Updated:** 01.09.2026
+**Last Updated:** 25.08.2026
 
 Welcome to Wroclaw Dwarf Hunt ("we," "our," or "us"). We are committed to protecting your privacy. This Privacy Policy explains how we handle your data when you use our mobile application (the "App").
 
