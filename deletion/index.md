@@ -23,7 +23,7 @@ We will verify and complete the request within 7 days. If you no longer have the
 
 ## Data That Is Deleted
 
-Deletion removes your profile and display name, provider link, game progress, collected dwarfs, hints, leaderboard records, purchase ledger stored by us, and submitted dwarf photos from our active systems.
+Deletion removes your profile and display name, provider link, game progress, collected dwarfs, hints, leaderboard records, purchase ledger stored by us, RevenueCat customer record, and submitted dwarf photos from our active systems. The App also clears its Firebase Analytics user ID and resets locally stored Analytics identity data.
 
 Limited transaction, security, or diagnostic records may be retained only where reasonably necessary for fraud prevention, accounting, dispute resolution, security, or legal compliance. Such records are restricted to those purposes and deleted or anonymized when no longer required. See our [Privacy Policy](../privacy/) for details.
 

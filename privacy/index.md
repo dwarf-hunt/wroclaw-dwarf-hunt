@@ -26,7 +26,7 @@ Google Play or the Apple App Store processes payments. We and RevenueCat receive
 
 ### Analytics and diagnostics
 
-We use Firebase Analytics to collect app-interaction, device, and other identifier data to understand feature usage and improve the App. We use Sentry for crash reports, diagnostics, performance monitoring, error-session replay, and screenshots associated with errors. Diagnostic information may include device and operating-system details, app state, interaction information, and technical identifiers. Sentry is configured to mask replayed text and images where supported.
+We use Firebase Analytics to collect app-interaction, device, and other identifier data to understand feature usage and improve the App. Advertising identifiers, ad storage, ad-user-data use, and ad personalization are disabled. We use Sentry for crash reports, diagnostics, and performance monitoring. Diagnostic information may include device and operating-system details, app state, interaction information, and technical identifiers. Sentry is configured not to send default personally identifiable information, screenshots, or session replays.
 
 ## 2. How We Use Information
 
@@ -53,7 +53,7 @@ These providers process information under their own terms and privacy commitment
 
 ## 4. Retention and Security
 
-Account, progress, purchase, and submitted-photo data is retained while your account is active and as needed to provide the App. We use encrypted network connections when transmitting data. Analytics and diagnostic records are retained according to our configured provider retention periods and then deleted or aggregated.
+Account, progress, purchase, and submitted-photo data is retained while your account is active and as needed to provide the App. We use encrypted network connections when transmitting data. Firebase Analytics user-level and event-level data is configured for a 2-month retention period. Sentry diagnostic records are retained for the shortest period available under our Sentry plan and then deleted. Clearing or deleting an account removes the Analytics user ID from the device; account deletion also resets locally stored Analytics identity data. Provider-side records are deleted or age out under these settings and applicable provider deletion processes.
 
 After account deletion, we may retain limited records where reasonably necessary for fraud prevention, security, accounting, dispute resolution, or legal compliance. Retained records are restricted to those purposes and are deleted or anonymized when no longer required.
 
@@ -61,7 +61,7 @@ After account deletion, we may retain limited records where reasonably necessary
 
 You can change your display name in the App and control camera and location permissions in your device settings.
 
-You can permanently delete your account from **Settings → Account → Advanced → Delete Account**. You can also follow the external instructions on our [Account and Data Deletion page](../deletion/). Account deletion removes your profile, provider link, game progress, leaderboard records, purchase ledger stored by us, and submitted photos from our active systems, subject to the limited retention described above.
+You can permanently delete your account from **Settings → Account → Advanced → Delete Account**. You can also follow the external instructions on our [Account and Data Deletion page](../deletion/). Account deletion removes your profile, provider link, game progress, leaderboard records, purchase ledger stored by us, RevenueCat customer record, and submitted photos from our active systems, subject to the limited retention described above.
 
 ## 6. Children's Privacy
 
