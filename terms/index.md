@@ -1,6 +1,6 @@
 # Terms of Service
 
-**Last Updated:** 25.08.2026
+**Last Updated:** 15 September 2026
 
 Welcome to Wroclaw Dwarf Hunt! By downloading, accessing, or using our mobile application (the "App"), you agree to be bound by these Terms of Service. If you do not agree to these terms, please do not use the App.
 
@@ -27,16 +27,23 @@ The App offers various plans (e.g., Starter, Explorer, Expert) that provide addi
 
 You may sign in using Apple or Google to save your progress and compete on the Leaderboard.
 * Your display name (which defaults to your first name) will be publicly visible to other players on the Leaderboard. You can change this name at any time.
-* We reserve the right to reset inappropriate or offensive display names.
+* You must not use a display name that is abusive, hateful, sexually explicit, illegal, deceptive, or otherwise objectionable.
+* We may reset an inappropriate display name or suspend an account that repeatedly violates these rules.
 
 ## 5. Termination
 
 We reserve the right to suspend or terminate your access to the App at our discretion, without notice, for conduct that we believe violates these Terms of Service or is harmful to other users, us, or third parties.
 
+You may delete your account at any time from the App's settings or by following our [Account and Data Deletion instructions](../deletion/).
+
 ## 6. Disclaimer of Warranties
 
 The App is provided "as is" and "as available." While we strive to provide accurate locations and seamless gameplay, we do not guarantee that the App will always be error-free, that the map routing will always be accurate, or that all physical dwarfs will be publicly accessible at all times.
 
-## 7. Contact Information
+## 7. Privacy and Account Deletion
+
+Please review our [Privacy Policy](../privacy/) and [Account and Data Deletion instructions](../deletion/) before using the App.
+
+## 8. Contact Information
 
 If you have any questions regarding these Terms, please contact us at: **dwarfshunt@gmail.com**.

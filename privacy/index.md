@@ -1,47 +1,76 @@
 # Privacy Policy
 
-**Last Updated:** 25.08.2026
+**Last Updated:** 15 September 2026
 
-Welcome to Wroclaw Dwarf Hunt ("we," "our," or "us"). We are committed to protecting your privacy. This Privacy Policy explains how we handle your data when you use our mobile application (the "App").
-
-Our core philosophy is simple: **we do not collect or store your sensitive personal data.** You can hunt dwarfs with peace of mind.
+This Privacy Policy explains how Wroclaw Dwarf Hunt ("we," "our," or "us") collects, uses, shares, retains, and deletes information when you use the Wroclaw Dwarf Hunt mobile application (the "App").
 
 ## 1. Information We Collect
 
-### Authentication Data
-When you sign in using Google or Apple, we do not access, collect, or store your email address or other data. We only receive an anonymous, unique identifier to save your game progress and a default display name (typically your first name). You can change this display name at any time in the App's settings.
+### Account and profile information
 
-### Location Data
-We require access to your device's location (coarse and fine) while you are using the App. This is used strictly to:
-1. Verify that you are physically near a dwarf when you attempt to catch it (App Functionality).
-2. Collect anonymous telemetry (coordinates of successful or failed capture attempts) strictly for debugging and improving the accuracy of dwarf locations on our map (Diagnostics).
-We do not track your location in the background or store your location history.
+When you sign in with Google or Apple, we receive a provider-specific account identifier and basic profile information needed to create your account, such as a suggested display name and profile photo where provided. We send the provider token to our server to validate the sign-in. We do not store your Google or Apple password.
 
-### Camera and Photos
-The App requires camera access to take photos of the dwarfs you find. These photos are uploaded and stored securely on our servers (via Amazon Web Services). We do not access your personal photo library.
+We create an internal user ID and store your chosen display name, game progress, collected dwarfs, hints, available capture slots, and leaderboard score. Your display name and score may be visible to other users on the public leaderboard.
 
-## 2. How We Use Your Information
+### Location
 
-We use the minimal data we collect to:
-* Save your collected dwarfs, available slots, and hints.
-* Display your chosen username and score on the public Leaderboard.
-* Verify your location during a "catch" to ensure fair gameplay.
-* Improve the App's features, including using anonymously submitted photos of dwarfs to train and improve our automated image recognition systems.
-* Analyze anonymous location data during "catch" attempts to fix map inaccuracies and troubleshoot app errors.
+The App requests approximate and precise foreground location while you use location-based features. We use it to show your position, find nearby dwarfs, calculate walking routes, confirm that you are close enough to collect a dwarf, prevent unfair play, and diagnose inaccurate map locations. We do not request background location permission or build a continuous location history.
 
-## 3. Data Sharing and Third Parties
+### Camera and photos
 
-We **do not** sell, rent, or share your data with advertisers. We only use trusted third-party services necessary to operate the App:
-* **Authentication Providers:** Apple and Google (for secure sign-in).
-* **Hosting Services:** Amazon Web Services (AWS) for securely storing dwarf images and game progress.
-* **Payment Processors:** Apple App Store and Google Play Store handle all in-app purchases. We do not process or store your financial information.
+The App requests camera access so you can photograph dwarfs. Photos you submit are uploaded to and stored in Amazon Web Services. The App does not request broad access to your photo library. Submitted photos are used to confirm collections and may be used to train, test, and improve our dwarf-recognition system.
 
-## 4. Your Rights and Data Deletion
+### Purchases
 
-You have full control over your profile. Because your account is linked to an anonymous identifier, you have the right to delete your account at any time.
-* **How to delete:** You can request account deletion directly within the App's settings.
-* **What happens:** Deleting your account will permanently erase your display name, game progress, and authentication link from our servers. Photos of dwarfs you previously captured may be retained anonymously for service improvement, completely unlinked from you.
+Google Play or the Apple App Store processes payments. We and RevenueCat receive purchase and entitlement information such as product, transaction identifier, store, purchase time, and refund or entitlement status. We do not receive or store your complete payment-card details.
 
-## 5. Contact Us
+### Analytics and diagnostics
 
-If you have any questions or concerns about this Privacy Policy, please contact us at: **dwarfshunt@gmail.com**.
+We use Firebase Analytics to collect app-interaction, device, and other identifier data to understand feature usage and improve the App. We use Sentry for crash reports, diagnostics, performance monitoring, error-session replay, and screenshots associated with errors. Diagnostic information may include device and operating-system details, app state, interaction information, and technical identifiers. Sentry is configured to mask replayed text and images where supported.
+
+## 2. How We Use Information
+
+We use information to:
+
+* provide accounts, game progress, maps, routes, collections, hints, purchases, and leaderboards;
+* verify location and submitted photos during collection attempts;
+* operate, secure, troubleshoot, and improve the App and its dwarf-recognition system;
+* prevent fraud, abuse, and duplicate purchase grants;
+* respond to support, privacy, and account-deletion requests; and
+* comply with legal, accounting, and platform obligations.
+
+## 3. Service Providers and Disclosure
+
+We do not sell personal information or share it with advertisers. We disclose information only as needed to providers that process it for us or to comply with law:
+
+* **Google and Apple** — authentication and app-store services;
+* **Amazon Web Services** — API, database, and photo hosting;
+* **RevenueCat** — in-app purchase and entitlement management;
+* **Firebase Analytics** — usage analytics; and
+* **Sentry** — crash, performance, and diagnostic monitoring.
+
+These providers process information under their own terms and privacy commitments. Information may be processed in countries other than the country where you live.
+
+## 4. Retention and Security
+
+Account, progress, purchase, and submitted-photo data is retained while your account is active and as needed to provide the App. We use encrypted network connections when transmitting data. Analytics and diagnostic records are retained according to our configured provider retention periods and then deleted or aggregated.
+
+After account deletion, we may retain limited records where reasonably necessary for fraud prevention, security, accounting, dispute resolution, or legal compliance. Retained records are restricted to those purposes and are deleted or anonymized when no longer required.
+
+## 5. Your Choices and Account Deletion
+
+You can change your display name in the App and control camera and location permissions in your device settings.
+
+You can permanently delete your account from **Settings → Account → Advanced → Delete Account**. You can also follow the external instructions on our [Account and Data Deletion page](../deletion/). Account deletion removes your profile, provider link, game progress, leaderboard records, purchase ledger stored by us, and submitted photos from our active systems, subject to the limited retention described above.
+
+## 6. Children's Privacy
+
+The App is not directed specifically to children. If you believe a child has provided personal information without appropriate authorization, contact us so we can investigate and delete it where required.
+
+## 7. Changes to This Policy
+
+We may update this policy when the App or our legal obligations change. We will post the revised date on this page.
+
+## 8. Contact Us
+
+For privacy questions or requests, contact **dwarfshunt@gmail.com**.
